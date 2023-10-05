@@ -2,6 +2,7 @@ package dio.projetoSpringBootDIO.service.impl;
 
 import dio.projetoSpringBootDIO.model.Cliente;
 import dio.projetoSpringBootDIO.service.ClienteService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
